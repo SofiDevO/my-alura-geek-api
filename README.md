@@ -4,9 +4,9 @@ Certainly! Here's the updated README file with the "Git clone" section added:
 
 # Alura Geek Project Fake API
 
-This is the Fake API repository for the Alura Geek project by Alura LATAM. If you'd like to view the project in real-time, you can do so [here](https://sofidevo.github.io/alura-geek/).
+This is the Fake API repository for the Alura Geek project by Alura LATAM. If you'd like to view the project in real-time, you can do so [here](https://sofidevo.github.io/alura-geek/), or you can check and/or clone the repository  [here](https://github.com/SofiDevO/alura-geek)
 
-![image](https://github.com/SofiDevO/my-alura-geek-api/assets/102200061/bc486007-7ea9-4691-87c7-cb17198a117c)
+[<img src="https://github.com/SofiDevO/my-alura-geek-api/assets/102200061/bc486007-7ea9-4691-87c7-cb17198a117c" />](https://github.com/SofiDevO/alura-geek)
 
 
 ## Overview
